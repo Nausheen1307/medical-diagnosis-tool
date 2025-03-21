@@ -21,7 +21,7 @@ Follow these steps to set up and run **HealthSense** locally:
 
 ### 1️⃣ Clone the Repository:
 ```bash
- git clone https://github.com/Atul-kr07/medical-app.git
+ git clone https://github.com/Nausheen1307/medical-app.git
  cd medical-app
 ```
 
