@@ -1,0 +1,13 @@
+# Python-related
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Streamlit-related
+.streamlit/
+
+# Large files or sensitive data
+*.sav  # If your model files are too large, exclude them (see Step 9 for alternatives)
+*.csv  # If you have large datasets
